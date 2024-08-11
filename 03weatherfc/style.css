@@ -1,0 +1,26 @@
+.container {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+#forecastContainer {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.card {
+  border: 1px solid rgb(143, 138, 138);
+  border-radius: 15px;
+  margin-top: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
